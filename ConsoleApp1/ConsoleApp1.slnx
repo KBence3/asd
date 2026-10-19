@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Common/Common.csproj" />
+  <Project Path="ConsoleApplication2/ConsoleApplication2.csproj" Id="d424cad4-213d-4bdb-92d1-b48b5025c04a" />
+  <Project Path="TestProject1/Tests.csproj" />
+</Solution>

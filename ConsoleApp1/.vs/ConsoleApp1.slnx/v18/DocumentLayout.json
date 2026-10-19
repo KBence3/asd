@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D424CAD4-213D-4BDB-92D1-B48B5025C04A}|ConsoleApplication2\\ConsoleApplication2.csproj|c:\\users\\bence\\source\\repos\\consoleapp1\\consoleapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D424CAD4-213D-4BDB-92D1-B48B5025C04A}|ConsoleApplication2\\ConsoleApplication2.csproj|solutionrelative:consoleapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|c:\\users\\bence\\source\\repos\\consoleapp1\\common\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|solutionrelative:common\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|c:\\users\\bence\\source\\repos\\consoleapp1\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74A846-31D5-9226-740C-6ED276ADA68A}|TestProject1\\Tests.csproj|c:\\users\\bence\\source\\repos\\consoleapp1\\testproject1\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF74A846-31D5-9226-740C-6ED276ADA68A}|TestProject1\\Tests.csproj|solutionrelative:testproject1\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74A846-31D5-9226-740C-6ED276ADA68A}|TestProject1\\Tests.csproj|c:\\users\\bence\\source\\repos\\consoleapp1\\testproject1\\classroomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF74A846-31D5-9226-740C-6ED276ADA68A}|TestProject1\\Tests.csproj|solutionrelative:testproject1\\classroomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|c:\\users\\bence\\source\\repos\\consoleapp1\\common\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|solutionrelative:common\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|c:\\users\\bence\\source\\repos\\consoleapp1\\common\\ipersonmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|solutionrelative:common\\ipersonmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|c:\\users\\bence\\source\\repos\\consoleapp1\\common\\persongrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15E491A-E872-91D8-DF7A-CA59C792F064}|Common\\Common.csproj|solutionrelative:common\\persongrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF74A846-31D5-9226-740C-6ED276ADA68A}|TestProject1\\Tests.csproj|c:\\users\\bence\\source\\repos\\consoleapp1\\testproject1\\modifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF74A846-31D5-9226-740C-6ED276ADA68A}|TestProject1\\Tests.csproj|solutionrelative:testproject1\\modifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T23:02:40.09Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\TestProject1\\Tests.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\Tests.csproj",
+              "ToolTip": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\TestProject1\\Tests.csproj",
+              "RelativeToolTip": "TestProject1\\Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T23:02:42.85Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\ConsoleApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\ConsoleApplication2\\Program.cs",
+              "RelativeToolTip": "ConsoleApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T23:15:04.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\Person.cs",
+              "RelativeDocumentMoniker": "Common\\Person.cs",
+              "ToolTip": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\Person.cs",
+              "RelativeToolTip": "Common\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:40:57.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassRoomTests.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\TestProject1\\ClassRoomTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ClassRoomTests.cs",
+              "ToolTip": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\TestProject1\\ClassRoomTests.cs",
+              "RelativeToolTip": "TestProject1\\ClassRoomTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:53:36.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "Common\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\ClassRoom.cs",
+              "RelativeToolTip": "Common\\ClassRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:47:36.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPersonModifier.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\IPersonModifier.cs",
+              "RelativeDocumentMoniker": "Common\\IPersonModifier.cs",
+              "ToolTip": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\IPersonModifier.cs",
+              "RelativeToolTip": "Common\\IPersonModifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T21:00:33.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonGrower.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\PersonGrower.cs",
+              "RelativeDocumentMoniker": "Common\\PersonGrower.cs",
+              "ToolTip": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\Common\\PersonGrower.cs",
+              "RelativeToolTip": "Common\\PersonGrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T21:02:49.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModifierTests.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\TestProject1\\ModifierTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ModifierTests.cs",
+              "ToolTip": "C:\\Users\\bence\\source\\repos\\ConsoleApp1\\TestProject1\\ModifierTests.cs",
+              "RelativeToolTip": "TestProject1\\ModifierTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T21:08:08.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

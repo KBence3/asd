@@ -1,0 +1,12 @@
+C:\Users\bence\source\repos\Common\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\bence\source\repos\Common\Common\bin\Debug\net8.0\Common.dll
+C:\Users\bence\source\repos\Common\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\bence\source\repos\Common\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bence\source\repos\Common\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\bence\source\repos\Common\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\bence\source\repos\Common\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\bence\source\repos\Common\Common\obj\Debug\net8.0\Common.dll
+C:\Users\bence\source\repos\Common\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\bence\source\repos\Common\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\bence\source\repos\Common\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\bence\source\repos\Common\Common\obj\Debug\net8.0\Common.csproj.Up2Date
